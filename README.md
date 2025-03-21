@@ -1,4 +1,4 @@
-Telecom_Customer_Churn_Prediction
+Telecom Customer Churn Prediction Project
 
 📌_Project Overview
 
