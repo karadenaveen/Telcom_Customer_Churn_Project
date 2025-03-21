@@ -4,6 +4,7 @@ Telecom Customer Churn Prediction Project
 
 This project focuses on predicting customer churn in the telecom industry using machine learning techniques. Customer churn refers to the loss of customers over time, and by building an effective predictive model, telecom companies can take proactive measures to retain customers.
 
+
 🚀_Technologies Used
 
 Programming Language: Python
@@ -14,6 +15,7 @@ Machine Learning or AI Model: ANN Algorithem
 
 Data Processing: Feature Encoding, Scaling, Train-Test Split
 
+
 📂_Dataset
 
 -Source: telecom_customer_churn.csv
@@ -21,6 +23,7 @@ Data Processing: Feature Encoding, Scaling, Train-Test Split
 -Columns: Customer information, service usage, contract details, and churn status
 
 -Target Variable: Churn (Binary classification: 0 - No Churn, 1 - Churn)
+
 
 🔄_Data Preprocessing
 
@@ -31,6 +34,7 @@ Data Processing: Feature Encoding, Scaling, Train-Test Split
 -Scale numerical features using StandardScaler
 
 -Split data into training and testing sets (80% train, 20% test)
+
 
 📊_Model Training & Evaluation
 
