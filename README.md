@@ -18,34 +18,34 @@ Data Processing: Feature Encoding, Scaling, Train-Test Split
 
 📂_Dataset
 
--Source: telecom_customer_churn.csv
+Source: telecom_customer_churn.csv
 
--Columns: Customer information, service usage, contract details, and churn status
+Columns: Customer information, service usage, contract details, and churn status
 
--Target Variable: Churn (Binary classification: 0 - No Churn, 1 - Churn)
+Target Variable: Churn (Binary classification: 0 - No Churn, 1 - Churn)
 
 
 🔄_Data Preprocessing
 
--Load dataset and handle missing values
+Load dataset and handle missing values
 
--Encode categorical features using Label Encoding
+Encode categorical features using Label Encoding
 
--Scale numerical features using StandardScaler
+Scale numerical features using StandardScaler
 
--Split data into training and testing sets (80% train, 20% test)
+Split data into training and testing sets (80% train, 20% test)
 
 
 📊_Model Training & Evaluation
 
--Model Used: Random Forest Classifier (100 estimators, random_state=42)
+Model Used: Random Forest Classifier (100 estimators, random_state=42)
 
--Performance Metrics: Accuracy, Classification Report, Confusion Matrix
+Performance Metrics: Accuracy, Classification Report, Confusion Matrix
 
--Evaluation Results: Model predicts customer churn with high accuracy
+Evaluation Results: Model predicts customer churn with high accuracy
 
 📈_Visualization
 
--Heatmap of Confusion Matrix using Seaborn
+Heatmap of Confusion Matrix using Seaborn
 
--Feature importance analysis using Random Forest
+Feature importance analysis using Random Forest
