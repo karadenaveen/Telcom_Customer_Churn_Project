@@ -1,4 +1,4 @@
-#Telecom_Customer_Churn_Prediction
+Telecom_Customer_Churn_Prediction
 
 📌_Project Overview
 
